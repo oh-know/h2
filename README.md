@@ -1,8 +1,6 @@
-# <center>H2 diary</center>
+# H2 diary
 
---
-
-1.-linux
+linux
 2.-vim
 3.-git
 4.-python
